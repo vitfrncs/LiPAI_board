@@ -1,4 +1,4 @@
-"""Aula 02 - INSTRUÇÃO if"""
+"""Aula 02 - INSTRUÇÃO ifAula 02 - INSTRUÇÃO if"""
 
 # if condicao:
 #   instrucao
