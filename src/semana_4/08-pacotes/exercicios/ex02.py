@@ -1,0 +1,1 @@
+"""Organize as funções e classes que você escreveu essa semana em uma estrutura de módulos e pacotes. Pense como isso poderia ser organizado."""
