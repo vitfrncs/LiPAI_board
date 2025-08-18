@@ -3,7 +3,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("src/10-pandas/classification_results_trial_0001.csv")
+df = pd.read_csv("semana_4/10-pandas/classification_results_trial_0001.csv")
 
 # 1. Gráfico de barras para real_class
 plt.figure(figsize=(6, 4))

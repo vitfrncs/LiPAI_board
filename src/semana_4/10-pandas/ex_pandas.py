@@ -1,7 +1,7 @@
 import pandas as pd
 
 # 1. Ler o arquivo CSV (ajuste o caminho se necessário)
-df = pd.read_csv("src/10-pandas/classification_results_trial_0001.csv", sep=',')
+df = pd.read_csv("semana_4/10-pandas/classification_results_trial_0001.csv", sep=',')
 
 # 2. Quantas imagens são "benign" e "malign"?
 print("Contagem de classes reais:")
